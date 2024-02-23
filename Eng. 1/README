@@ -10,7 +10,30 @@ The addition of time adds an important new dimension to programming. Cubes aren�
 
 Paragrafo 1: fala um pouco sobre a diferença entre um engenheiro de software e um organização de engenharia de software. No caso do engenheiro ele precisa estar mais concentrado com o passar do tempo, atualizações e 
 inovações cada dia mais frequentes, já em uma organização a maior preocupação é escala e eficiencia. Ultimamente os engenheiros estão tendo que tomar decisões mais complexas e com estimativas de tempo imprecisas e
-crescimento.
+crescimento. O tempo é uma métrica crítica, especialmente em sistemas de tempo real ou em sistemas distribuídos, onde a latência é um fator importante e a mudança e avanços na tecnologia são constantes. A escalabilidade 
+é uma consideração crucial ao projetar e desenvolver sistemas que podem crescer e evoluir ao longo do tempo.
+
+
 
 Paragrafo 2: Diz que programar é significante mas não é a parte "principal" da engenharia de software, e assim que vc "enxerga" essa distinção fica claro que precisam delinear entre tarefas de programação (desenvolvimento)
-e tarefas de Eng. de software (manutenção, modificação, desenvolvimento, etc..) d com a adição de mais tempo uma importante e nova dimensão é adicionada. Nem tudo que parece ser algo relmente é.
+e tarefas de Eng. de software (manutenção, modificação, desenvolvimento, etc..) e com a adição de mais tempo uma importante e nova dimensão é adicionada. Nem tudo que parece ser algo relmente é. Trade-offs são decisões em que se opta por uma coisa em detrimento de outra. Na programação e engenharia de software, os trade-offs são frequentemente necessários devido a restrições de recursos, como tempo, dinheiro e pessoal. 
+
+
+
+EXEMPLOS DE TRADE-OFFS:
+
+
+1 - Custos x Desempenho:
+hospedar um sistema em um servidor dedicado caro para garantir um desempenho consistente e rápido, ou optar por uma solução de hospedagem mais barata ou compartilhada que pode ser menos robusta em 
+termos de desempenho. 
+
+2. Custo de manutenção x Desenvolvimento inicial:
+Optar por soluções de código rápido e protótipos para lançar um produto rapidamente, mas que podem resultar em código desorganizado e difícil de manter no futuro, exigindo mais tempo e recursos
+para atualizações e correções de bugs.
+
+3. Trabalho X Lazer:
+trabalhar HE e finais de semana para ganhar mais dinheiro e avançar na carreira, ou dedicar esse tempo ao lazer e à qualidade de vida.
+
+4. Inovação x Estabilidade:
+Adicionar frequentemente novas bibliotecas para aproveitar as últimas novidades, o que pode introduzir bugs ou incompatibilidades no software existente, afetando sua estabilidade e desempenho.
+
