@@ -25,7 +25,7 @@ public class ChatbotSQL {
     }
 
     private static String convertToSQL(String input) {
-        // Lógica simples de conversão de linguagem natural para SQL
+        
         input = input.toLowerCase();
         String sqlQuery = "";
 
